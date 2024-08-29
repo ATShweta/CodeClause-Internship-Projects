@@ -1,2 +1,2 @@
-# CodeClause-Internship-Projects
-Data Science internship projects at CodeClause, including customer segmentation with clustering, sentiment analysis using NLP, and movie genre prediction with text classification. Includes code, datasets, and documentation.
+# About
+Projects developed during my Data Science internship at CodeClause. This repository contains various data science and machine learning projects, including customer segmentation using clustering algorithms, sentiment analysis using NLP techniques, and movie genre prediction using text classification. Each project demonstrates practical applications of data science techniques and includes code, datasets, and documentation.
